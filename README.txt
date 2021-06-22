@@ -1,8 +1,3 @@
-Luís Ferreira 49495
-Xavier Cordeiro 46365
-
-Testado em Linux
-
 (OBRIGATÓRIO)
 Compilar: 
  > sh compile.sh
