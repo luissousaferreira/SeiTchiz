@@ -1,0 +1,5 @@
+grant codeBase "file:*" {
+	permission java.net.SocketPermission "*:1024-", "listen, accept, resolve";
+	permission java.io.FilePermission "../database/*", "read, write";
+	permission java.security.AllPermission; 
+};
